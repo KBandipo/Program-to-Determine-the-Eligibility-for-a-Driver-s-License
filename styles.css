@@ -6,7 +6,9 @@
 
 body {
   color: #f7f7f7;
-  background-color: #1f0909cc;
+  background-image: linear-gradient(rgba(0, 0, 0, 0.61), rgba(0, 0, 0, 0.61)),
+    url(./img/related-3.jpg);
+  background-size: cover;
 }
 
 h1 {
